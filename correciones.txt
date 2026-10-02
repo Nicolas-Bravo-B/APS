@@ -1,0 +1,20 @@
+Correcciones de las TSs
+
+TS1: Análisis de Señales:
+
+    * Pasar por corrector el texto del Notebook
+    * Hay gráficos que no tienen mucho para mostrar
+    * Gráfico de señales en el tiempo poner unidades
+    * Falta conclusión
+
+TS3: Desparramo Espectral:
+
+    * Donde dice Derrame Espectral, debió decir Desparramo Espectral.
+    * Falta Conclusión.
+    * Falta explicación de por qué aparece la sinc al hacer zero padding: Convolución en frecuencia
+    * En los gráficos de los espectros, por qué unir los puntos con líneas? La DFT (FFT) es discreta.
+    * La delta que cae en el bin tiene valor unitario, pero la señal es sinusoidal normalizada en 
+      potencia. Esto quiere decir que forzaste la normalización. En realidad por Parceval, la sumatoria 
+      de los valores de la densidad espectral de potencia en el rango de frecuencias de 0 a N-1 
+      (o 0 a 2pi en la DTFT) debe dar unitario y como es una sinusoidal, en el rango de 0 a N-1 tenés 
+      dos deltas. Revisá la normalización. 
