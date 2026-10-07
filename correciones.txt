@@ -18,3 +18,11 @@ TS3: Desparramo Espectral:
       de los valores de la densidad espectral de potencia en el rango de frecuencias de 0 a N-1 
       (o 0 a 2pi en la DTFT) debe dar unitario y como es una sinusoidal, en el rango de 0 a N-1 tenés 
       dos deltas. Revisá la normalización. 
+
+TS4: Estimadores:
+
+    * Pasar el texto por un corrector
+    * En el eje vertical de los gráficos donde dice "cantidad de realizaciones" es en realidad "conteo", 
+      es una conteo que hacés en las 200 realizaciones, cantidad de casos.
+    * Falta más trabajo en el desarrollo y la conclusión.
+    * Falta por ejemplo un análisis de la varianza respecto del ruido en la señal para ambas estimaciones.
