@@ -26,3 +26,12 @@ TS4: Estimadores:
       es una conteo que hacés en las 200 realizaciones, cantidad de casos.
     * Falta más trabajo en el desarrollo y la conclusión.
     * Falta por ejemplo un análisis de la varianza respecto del ruido en la señal para ambas estimaciones.
+  
+TS4: Estimación Espectral:
+
+    * Pasar el texto por un corrector, menos errores que en los trabajos anteriores, pero todavía hay.
+    * Falta justificación del uso de Welch desestimando los otros métodos que se proponen como el 
+      Periodograma ventaneado y el Blackman-Tukey.
+    * Falta plots en el tiempo de las señales.
+    * Por qué en todos los espectros las unidades están en mV^2/Hz? 
+    * Falta una buena conclusión que resuma el trabajo que hiciste.
