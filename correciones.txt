@@ -35,3 +35,11 @@ TS4: Estimación Espectral:
     * Falta plots en el tiempo de las señales.
     * Por qué en todos los espectros las unidades están en mV^2/Hz? 
     * Falta una buena conclusión que resuma el trabajo que hiciste.
+
+TS6: Filtros Pasivos:
+
+    * Los gráficos había que hacerlo a mano, como para que sirva de práctica para el parcial.
+    * En el segundo y tercer circuito falta marcar la pendiente de la asíntota. 
+    * Falta una sección de conclusiones donde resuman el trabajo hecho y que conceptos de la materia se 
+      verificaron o lo que consideren de interés reflexionar. 
+    * Hay algunos errores de edición en el texto.
